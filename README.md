@@ -1,5 +1,5 @@
-# lajiwanyi
-just try
-li
-tyu
-fg
+# mipscpu
+mips cpu
+verilog
+logisim
+fpga
